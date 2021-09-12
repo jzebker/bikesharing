@@ -18,7 +18,9 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 
 <sup>
   • Male users outnumber female users almost 3 to 1 
+  
   • Subscribers account for 81% of total trips
+  
   • In general, subscribers input their gender more frequently than customers
 </sup>
 
