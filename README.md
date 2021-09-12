@@ -16,6 +16,12 @@ Finally, you’ll add these new visualizations to the two you created in this mo
   <img src='https://user-images.githubusercontent.com/84994321/133000343-16ced262-7d16-45b2-959f-887679f17a59.png' width=500/>
 </p>
 
+<sup>
+  • Male users outnumber female users almost 3 to 1 
+  • Subscribers account for 81% of total trips
+  • In general, subscribers input their gender more frequently than customers
+</sup>
+
 <p align="center">
   <img src='https://user-images.githubusercontent.com/84994321/133000254-e9b4bc46-ae67-45b1-8cd6-e2f46633f1dd.png' width=800/>
 </p>
