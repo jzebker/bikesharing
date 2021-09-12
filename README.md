@@ -13,11 +13,11 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 [Tableau Story](https://public.tableau.com/app/profile/jacob.zebker/viz/citibikeChallenge/citiBikeStory) - Link for full/interactable visualizations
 ### Who
 <p align="center">
-  <img src='https://user-images.githubusercontent.com/84994321/133000343-16ced262-7d16-45b2-959f-887679f17a59.png' width=600/>
+  <img src='https://user-images.githubusercontent.com/84994321/133000343-16ced262-7d16-45b2-959f-887679f17a59.png' width=500/>
 </p>
 
 <p align="center">
-  <img src='https://user-images.githubusercontent.com/84994321/133000254-e9b4bc46-ae67-45b1-8cd6-e2f46633f1dd.png' />
+  <img src='https://user-images.githubusercontent.com/84994321/133000254-e9b4bc46-ae67-45b1-8cd6-e2f46633f1dd.png' width=800/>
 </p>
 
 ### What
