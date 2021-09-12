@@ -26,6 +26,10 @@ Finally, you’ll add these new visualizations to the two you created in this mo
   <img src='https://user-images.githubusercontent.com/84994321/133000254-e9b4bc46-ae67-45b1-8cd6-e2f46633f1dd.png' width=800/>
 </p>
 
+  • Users, for the most part, are 30 years old
+  
+  • Users that did not specify gender were born in 1969
+
 ### What
 ### When
 ### Where
