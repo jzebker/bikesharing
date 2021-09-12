@@ -13,7 +13,7 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 [Tableau Story](https://public.tableau.com/app/profile/jacob.zebker/viz/citibikeChallenge/citiBikeStory) - Link for full/interactable visualizations
 ### Who
 <p align="center">
-  <img src='https://user-images.githubusercontent.com/84994321/133000343-16ced262-7d16-45b2-959f-887679f17a59.png' />
+  <img src='https://user-images.githubusercontent.com/84994321/133000343-16ced262-7d16-45b2-959f-887679f17a59.png' width=600/>
 </p>
 
 <p align="center">
