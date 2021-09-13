@@ -31,6 +31,19 @@ Finally, you’ll add these new visualizations to the two you created in this mo
   • Users that did not specify gender were born in 1969
 
 ### What
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/84994321/133012631-2de8f34f-8234-4a82-a4f4-51e79684c270.png' width=800/>
+</p>
+  
+  • 
+  
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/84994321/133012719-9047fa11-cb92-4ff0-aab8-bae535160857.png' width=800/>
+</p>
+
+  •
+
+
 ### When
 ### Where
 
