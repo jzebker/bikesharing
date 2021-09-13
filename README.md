@@ -81,7 +81,7 @@ Finally, you’ll add these new visualizations to the two you created in this mo
   <img src='https://user-images.githubusercontent.com/84994321/133012930-f59e0264-9d3d-410f-b9e2-2f628662bd2d.png' width=800/>
 </p>
 
-<sup>Ending Locations</sup>
+<p align="center"><sup>Ending Locations</sup></p>
 
   • Users are primarily centered around lower manhattan
   
