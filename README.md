@@ -101,3 +101,5 @@ With that said other suggestions for the current dataset follow:
 • Look at most frequently used bikes to try to predict maintenance needs
 
 • Get more specific about WHERE the users are going to answer WHY they use Citibike (do certain types of commuters or certain companies use the service more? are people biking INSTEAD of driving or using the Subway? is NYC traffic important to Citibike? are users commuting? are they using bikes for exercise?)
+
+• Collect information on users to sell it to somebody
