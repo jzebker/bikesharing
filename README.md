@@ -89,7 +89,7 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 Based on the above analysis, male subscribers make up the bulk of users.  Patterns of use are similar for both male and female users.  The majority of trips begin and end in lower Manhattan and are under 20 minutes in duration.  The busiest times of the week are during morning rush hour and afternoon rush hour.  Bike trips on the weekend are spread out more evenly.
 
 ## How Does this Apply to Des Moines
-Based on the data, people are using Citibike in New York.  Trips are concentrated where there are more people and these people appear to be using the bikes to go to and from work during the week.  If people in Des Moines like to bike to work, I see nothing from this data set that implies Des Moines residents will not use Citibike.
+**Based on the data, people are using Citibike in New York.  Trips are concentrated where there are more people and these people appear to be using the bikes to go to and from work during the week.  If people in Des Moines like to bike to work, I see nothing from this data set that implies Des Moines residents will not use Citibike.**
 
 ## Suggestions for Further Development
 The point of this analysis is to accompany a pitch to investors for Des Moines Citibike.  The population of Des Moines is just over 200k (per Google as of 2019, growth year to year is small) which is not comparable to NYC.  As a result, I feel it would be more prudent to look at data for Des Moines and not NYC.  I know nothing about Des Moines.
