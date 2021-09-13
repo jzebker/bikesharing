@@ -56,7 +56,7 @@ Finally, you’ll add these new visualizations to the two you created in this mo
   • The least busy times are in the middle of the night
   
 <p align="center">
-  <img src='https://user-images.githubusercontent.com/84994321/133013554-f3a5f66e-e1f2-4536-9626-854fb17f4f99.png' width=500/>
+  <img src='https://user-images.githubusercontent.com/84994321/133013554-f3a5f66e-e1f2-4536-9626-854fb17f4f99.png' width=550/>
   <img src='https://user-images.githubusercontent.com/84994321/133013617-b9602519-9713-4e07-9d89-606fbef16b5b.png' width=400/>
 </p>
 
