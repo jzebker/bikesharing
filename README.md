@@ -94,7 +94,7 @@ Based on the data, people are using Citibike in New York.  Trips are concentrate
 ## Suggestions for Further Development
 The point of this analysis is to accompany a pitch to investors for Des Moines Citibike.  The population of Des Moines is just over 200k (per Google as of 2019, growth year to year is small) which is not comparable to NYC.  As a result, I feel it would be more prudent to look at data for Des Moines and not NYC.  I know nothing about Des Moines.
 
-With that said other suggestions follow:
+With that said other suggestions for the current dataset follow:
 
 • Look at trip durations by start time of day (ex: How long are the trips for people checking out bikes during the peak times of the week?)
 
