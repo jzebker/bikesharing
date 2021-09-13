@@ -92,3 +92,12 @@ Based on the above analysis, male subscribers make up the bulk of users.  Patter
 Based on the data, people are using Citibike in New York.  Trips are concentrated where there are more people and these people appear to be using the bikes to go to and from work during the week.  If people in Des Moines like to bike to work, I see nothing from this data set that implies Des Moines residents will not use Citibike.
 
 ## Suggestions for Further Development
+The point of this analysis is to accompany a pitch to investors for Des Moines Citibike.  The population of Des Moines is just over 200k (per Google as of 2019, growth year to year is small) which is not comparable to NYC.  As a result, I feel it would be more prudent to look at data for Des Moines and not NYC.  I know nothing about Des Moines.
+
+With that said other suggestions follow:
+
+• Look at trip durations by start time of day (ex: How long are the trips for people checking out bikes during the peak times of the week?)
+
+• Look at most frequently used bikes to try to predict maintenance needs
+
+• Get more specific about WHERE the users are going to answer WHY they use Citibike (do certain types of commuters or certain companies use the service more? are people biking INSTEAD of driving or using the Subway? is NYC traffic important to Citibike? are users commuting? are they using bikes for exercise?)
