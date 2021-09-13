@@ -60,26 +60,26 @@ Finally, you’ll add these new visualizations to the two you created in this mo
   <img src='https://user-images.githubusercontent.com/84994321/133013617-b9602519-9713-4e07-9d89-606fbef16b5b.png' width=400/>
 </p>
 
-  •
+  • Female and male users use the service in roughly the same weekly pattern
+  
+  • Unknown gender users appear more on the weekend
 
 <p align="center">
   <img src='https://user-images.githubusercontent.com/84994321/133013678-a902a34a-c37f-437d-a748-141535c872c9.png' width=600/>
 </p>
 
-  •
+  • The typical user is a male subscriber
 
 ### Where
 <p align="center">
   <img src='https://user-images.githubusercontent.com/84994321/133013006-d2760614-c7d4-4339-9433-d4f3262aeb6e.png' width=800/>
 </p>
 
-  •
-
 <p align="center">
   <img src='https://user-images.githubusercontent.com/84994321/133012930-f59e0264-9d3d-410f-b9e2-2f628662bd2d.png' width=800/>
 </p>
 
-  •
+  • Users are primarily centered around lower manhattan
   
 ## Summary
 ### Why
