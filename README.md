@@ -35,13 +35,13 @@ Finally, you’ll add these new visualizations to the two you created in this mo
   <img src='https://user-images.githubusercontent.com/84994321/133012631-2de8f34f-8234-4a82-a4f4-51e79684c270.png' width=800/>
 </p>
   
-  • 
+  • The vast majority of trips were 20 minutes or less, I believe people aare using the bike service for short trips
   
 <p align="center">
   <img src='https://user-images.githubusercontent.com/84994321/133012719-9047fa11-cb92-4ff0-aab8-bae535160857.png' width=800/>
 </p>
 
-  •
+  • The data does not show significant differences in trip length when broken down by user
 
 
 ### When
