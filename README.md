@@ -45,6 +45,25 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 
 
 ### When
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/84994321/133013388-afbfca22-2ea4-410e-9499-eb21a540caec.png' width=800/>
+</p>
+
+  •
+  
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/84994321/133013554-f3a5f66e-e1f2-4536-9626-854fb17f4f99.png' width=500/>
+  <img src='https://user-images.githubusercontent.com/84994321/133013617-b9602519-9713-4e07-9d89-606fbef16b5b.png' width=500/>
+</p>
+
+  •
+
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/84994321/133013678-a902a34a-c37f-437d-a748-141535c872c9.png' width=600/>
+</p>
+
+  •
+
 ### Where
 <p align="center">
   <img src='https://user-images.githubusercontent.com/84994321/133013006-d2760614-c7d4-4339-9433-d4f3262aeb6e.png' width=800/>
