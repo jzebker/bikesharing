@@ -49,7 +49,11 @@ Finally, you’ll add these new visualizations to the two you created in this mo
   <img src='https://user-images.githubusercontent.com/84994321/133013388-afbfca22-2ea4-410e-9499-eb21a540caec.png' width=800/>
 </p>
 
-  •
+  • Peak start times during the week appear to be in the morning ~7-9AM and early evening ~5-6PM; this corresponds with rush hour traffic in other places and it is possible these users are biking to and from work
+  
+  • On the weekend, user trips are more evenly spread throughout daylight hours, peaking at around midday
+  
+  • The least busy times are in the middle of the night
   
 <p align="center">
   <img src='https://user-images.githubusercontent.com/84994321/133013554-f3a5f66e-e1f2-4536-9626-854fb17f4f99.png' width=500/>
