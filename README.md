@@ -25,8 +25,6 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 </p>
 
   • Users, for the most part, are 30 years old
-  
-  • Users that did not specify gender were born in 1969
 
 ### What
 <p align="center">
@@ -60,7 +58,7 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 
   • Female and male users use the service in roughly the same weekly pattern
   
-  • Unknown gender users appear more on the weekend
+  • Users that did not input gender appear more on the weekend
 
 <p align="center">
   <img src='https://user-images.githubusercontent.com/84994321/133013678-a902a34a-c37f-437d-a748-141535c872c9.png' width=600/>
